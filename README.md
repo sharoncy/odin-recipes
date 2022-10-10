@@ -1,2 +1,2 @@
 # odin-recipes
-Odin project
+Odin project to practise HTML skills
