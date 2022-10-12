@@ -1,0 +1,35 @@
+/*id selector*/
+
+
+#img_lemon {
+    height: 300px;
+    width: auto;
+}
+
+/*class selector*/
+
+.center {
+    text-align: center;
+
+}
+
+/*type selector*/
+
+img {
+    height: auto;
+    width: 300px;
+    border-style: double;
+}
+
+h2 {
+    color: blue;
+}
+
+/*universal selector*/
+
+* {
+    background-color: yellow;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
